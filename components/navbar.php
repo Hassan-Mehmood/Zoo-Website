@@ -97,6 +97,27 @@
                   </ul>
                </li>
 
+			   <li id="menu-item-9753" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9753">
+                  <a href="about-us.php">Safaris</a>
+                  <ul class="sub-menu">
+                     <li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="why-travel-with-us.php">Camping & Lodge Safaris</a></li>
+					 <li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="our-missions.php">Camel & Horse Riding Adventures</a></li>
+					 <li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="our-work.php">Cycling & Excursion Tours</a></li>
+					 <li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="gallery.php">Wildlife & Nature Photography</a></li>
+					 <li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="terms-and-conditions.php">Exclusive Birds Watching Tours</a></li>
+                  </ul>
+               </li>
+			   <li id="menu-item-9753" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9753">
+                  <a href="about-us.php">Trekking</a>
+                  <ul class="sub-menu">
+                     <li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="why-travel-with-us.php">Mount Kilimanjaro</a></li>
+					 <li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="our-missions.php">Mount Meru</a></li>
+					 <li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="our-work.php">Ngorongoro Highlands</a></li>
+					 <li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="gallery.php">Ol Doinyo Lengai Mountain of God</a></li>
+					 <li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="terms-and-conditions.php">Exclusive Birds Watching Tours</a></li>
+                  </ul>
+               </li>
+
                <li id="menu-item-164" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-164">
                   <a href="#">Services</a>
                   <ul class="sub-menu">
