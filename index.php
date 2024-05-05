@@ -14,12 +14,6 @@
 			</div>
 		</div>
 
-
-
-
-
-
-
 			<div class="themetechmount-slider-wrapper">
 		<div class="themetechmount-slider-wide">
 			<!-- START Homesliderone REVOLUTION SLIDER 6.5.11 --><p class="rs-p-wp-fix"></p>
@@ -27,7 +21,7 @@
 				<rs-module id="rev_slider_1_1" style="" data-version="6.5.11">
 					<rs-slides>
 						<rs-slide style="position: absolute;" data-key="rs-3" data-title="Slide" data-in="o:0;" data-out="a:false;">
-							<img src="wp-content/plugins/revslider/public/assets/assets/dummy.png" title="slider-img2.jpg" width="2232" height="1272" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//www.themetechmount.com/wordpress/wilddale/demo2/wp-content/uploads/sites/2/revslider/Home-slider-one/slider-img2.jpg" data-no-retina>
+							<img src="wp-content/uploads/custom/hero-img.jpeg" title="slider-img2.jpg" width="2232" height="1272" class="rev-slidebg tp-rs-img rs-lazyload">
 							<rs-bgvideo 
 								data-video="vc:none;w:100%;h:100%;sta:00:45;end:01:30;nse:false;l:true;ptimer:false;"
 								data-ytid="nTVv43Bn-As"
