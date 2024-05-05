@@ -60,80 +60,88 @@
                   <a href="#">Destinations</a>
                   <ul class="sub-menu">
                      <li id="menu-item-9761" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9761">
-						<a href="service/support-wildlife-2/index.html">Northern Destinations</a>
+						<a href="index.php">Northern Destinations</a>
 						<ul class="sub-menu">
-							<li id="menu-item-9761" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9761"><a href="service/support-wildlife-2/index.html">Arusha National Park</a></li>
-							<li id="menu-item-9761" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9761"><a href="service/support-wildlife-2/index.html">Serengeti National Park</a></li>
-							<li id="menu-item-9761" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9761"><a href="service/support-wildlife-2/index.html">Ngorongoro Crater</a></li>
-							<li id="menu-item-9761" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9761"><a href="service/support-wildlife-2/index.html">Tarangire National Park</a></li>
-							<li id="menu-item-9761" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9761"><a href="service/support-wildlife-2/index.html">Lake Manyara National Park</a></li>
-							<li id="menu-item-9761" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9761"><a href="service/support-wildlife-2/index.html">Mount Kilimanjaro National Park</a></li>
-							<li id="menu-item-9761" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9761"><a href="service/support-wildlife-2/index.html">Mount Meru</a></li>
+							<li id="menu-item-9761" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9761"><a href="index.php">Arusha National Park</a></li>
+							<li id="menu-item-9761" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9761"><a href="index.php">Serengeti National Park</a></li>
+							<li id="menu-item-9761" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9761"><a href="index.php">Ngorongoro Crater</a></li>
+							<li id="menu-item-9761" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9761"><a href="index.php">Tarangire National Park</a></li>
+							<li id="menu-item-9761" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9761"><a href="index.php">Lake Manyara National Park</a></li>
+							<li id="menu-item-9761" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9761"><a href="index.php">Mount Kilimanjaro National Park</a></li>
+							<li id="menu-item-9761" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9761"><a href="index.php">Mount Meru</a></li>
 						</ul>
 					</li>
                      <li id="menu-item-9760" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9760">
-						<a href="service/act-for-wildlife-2/index.html">Southern Destinations</a>
+						<a href="index.php">Southern Destinations</a>
 						<ul class="sub-menu">
-							<li id="menu-item-9761" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9761"><a href="service/support-wildlife-2/index.html">Nikumi National Park</a></li>
-							<li id="menu-item-9761" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9761"><a href="service/support-wildlife-2/index.html">Selous Game Reserve</a></li>
-							<li id="menu-item-9761" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9761"><a href="service/support-wildlife-2/index.html">Ruaha National Park</a></li>
-							<li id="menu-item-9761" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9761"><a href="service/support-wildlife-2/index.html">Kitulo National Park</a></li>
-							<li id="menu-item-9761" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9761"><a href="service/support-wildlife-2/index.html">Saadani National Park</a></li>
-							<li id="menu-item-9761" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9761"><a href="service/support-wildlife-2/index.html">Udzungwa Mountanis National Park</a></li>
-							<li id="menu-item-9761" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9761"><a href="service/support-wildlife-2/index.html">Rubondo Island National Park</a></li>
+							<li id="menu-item-9761" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9761"><a href="index.php">Nikumi National Park</a></li>
+							<li id="menu-item-9761" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9761"><a href="index.php">Selous Game Reserve</a></li>
+							<li id="menu-item-9761" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9761"><a href="index.php">Ruaha National Park</a></li>
+							<li id="menu-item-9761" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9761"><a href="index.php">Kitulo National Park</a></li>
+							<li id="menu-item-9761" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9761"><a href="index.php">Saadani National Park</a></li>
+							<li id="menu-item-9761" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9761"><a href="index.php">Udzungwa Mountanis National Park</a></li>
+							<li id="menu-item-9761" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9761"><a href="index.php">Rubondo Island National Park</a></li>
 						</ul>
 					</li>
                      <li id="menu-item-9762" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9762">
-						<a href="service/wifi-with-hi-speed-2/index.html">Western Destinations</a>
+						<a href="index.php">Western Destinations</a>
 						<ul class="sub-menu">
-							<li id="menu-item-9761" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9761"><a href="service/support-wildlife-2/index.html">Gombe Stream National Park</a></li>
-							<li id="menu-item-9761" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9761"><a href="service/support-wildlife-2/index.html">Katavi National Park</a></li>
-							<li id="menu-item-9761" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9761"><a href="service/support-wildlife-2/index.html">Mahale Mountains National Park</a></li>
+							<li id="menu-item-9761" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9761"><a href="index.php">Gombe Stream National Park</a></li>
+							<li id="menu-item-9761" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9761"><a href="index.php">Katavi National Park</a></li>
+							<li id="menu-item-9761" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9761"><a href="index.php">Mahale Mountains National Park</a></li>
 						</ul>
 					</li>
                      <li id="menu-item-9763" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9763">
-						<a href="service/a-guided-services-2/index.html">Zanzibar Land</a>
+						<a href="index.php">Zanzibar Land</a>
 					</li>
                   </ul>
                </li>
 
 			   <li id="menu-item-9753" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9753">
-                  <a href="about-us.php">Safaris</a>
+                  <a href="index.php">Safaris</a>
                   <ul class="sub-menu">
-                     <li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="why-travel-with-us.php">Camping & Lodge Safaris</a></li>
-					 <li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="our-missions.php">Camel & Horse Riding Adventures</a></li>
-					 <li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="our-work.php">Cycling & Excursion Tours</a></li>
-					 <li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="gallery.php">Wildlife & Nature Photography</a></li>
-					 <li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="terms-and-conditions.php">Exclusive Birds Watching Tours</a></li>
+                     <li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="index.php">Camping & Lodge Safaris</a></li>
+					 <li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="index.php">Camel & Horse Riding Adventures</a></li>
+					 <li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="index.php">Cycling & Excursion Tours</a></li>
+					 <li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="index.php">Wildlife & Nature Photography</a></li>
+					 <li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="index.php">Exclusive Birds Watching Tours</a></li>
                   </ul>
                </li>
 			   <li id="menu-item-9753" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9753">
-                  <a href="about-us.php">Trekking</a>
+                  <a href="index.php">Trekking</a>
                   <ul class="sub-menu">
-                     <li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="why-travel-with-us.php">Mount Kilimanjaro</a></li>
-					 <li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="our-missions.php">Mount Meru</a></li>
-					 <li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="our-work.php">Ngorongoro Highlands</a></li>
-					 <li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="gallery.php">Ol Doinyo Lengai Mountain of God</a></li>
-					 <li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="terms-and-conditions.php">Exclusive Birds Watching Tours</a></li>
+                     <li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="index.php">Mount Kilimanjaro</a></li>
+					 <li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="index.php">Mount Meru</a></li>
+					 <li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="index.php">Ngorongoro Highlands</a></li>
+					 <li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="index.php">Ol Doinyo Lengai Mountain of God</a></li>
+					 <li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="index.php">Exclusive Birds Watching Tours</a></li>
                   </ul>
                </li>
 
                <li id="menu-item-164" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-164">
-                  <a href="#">Services</a>
+                  <a href="#">Zanzibar</a>
                   <ul class="sub-menu">
-                     <li id="menu-item-9756" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9756"><a href="services.php">Services</a></li>
-                     <li id="menu-item-9761" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9761"><a href="service/support-wildlife-2/index.html">Support Wildlife</a></li>
-                     <li id="menu-item-9760" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9760"><a href="service/act-for-wildlife-2/index.html">Act For WildLife</a></li>
-                     <li id="menu-item-9762" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9762"><a href="service/wifi-with-hi-speed-2/index.html">WiFi with Hi-Speed</a></li>
-                     <li id="menu-item-9763" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9763"><a href="service/a-guided-services-2/index.html">A Guided Services</a></li>
-                     <li id="menu-item-9764" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9764"><a href="service/food-beverages-2/index.html">Food &amp; Beverages</a></li>
-                     <li id="menu-item-9765" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9765"><a href="service/photos-with-animals-2/index.html">Photos with Animals</a></li>
+                     <li id="menu-item-9756" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9756"><a href="index.php">Ideal zanzibar vacation</a></li>
+                     <li id="menu-item-9761" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9761"><a href="index.php">Exotic zanzibar vacation</a></li>
+                     <li id="menu-item-9760" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9760"><a href="index.php">Zanzibar beach perfection</a></li>
                   </ul>
                </li>
-               <li id="menu-item-9766" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9766"><a href="gallery/index.html">Gallery</a></li>
-               <li id="menu-item-204" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-204">
-                  <a href="blog-page/index.html">Blog</a>
+               <li id="menu-item-164" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-164">
+                  <a href="#">Day Trip</a>
+                  <ul class="sub-menu">
+                     <li id="menu-item-9756" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9756"><a href="index.php">Arusha National Park</a></li>
+                     <li id="menu-item-9761" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9761"><a href="index.php">Materuni Waterfalls and Village</a></li>
+                     <li id="menu-item-9760" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9760"><a href="index.php">Ngorongoro Crater</a></li>
+                     <li id="menu-item-9760" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9760"><a href="index.php">Olpopongi Village</a></li>
+                     <li id="menu-item-9760" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9760"><a href="index.php">Ol Doinyo Lengai</a></li>
+                     <li id="menu-item-9760" class="menu-item menu-item-type-post_type menu-item-object-tm_service menu-item-9760"><a href="index.php">Tarangire National Park</a></li>
+                  </ul>
                </li>
+
+               <!-- <li id="menu-item-9766" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9766"><a href="gallery/index.html">Gallery</a></li> -->
+               <!-- <li id="menu-item-204" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-204"> -->
+                  <!-- <a href="blog-page/index.html">Blog</a> -->
+               <!-- </li> -->
                <li id="menu-item-284" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-284"><a href="contact-us/index.html">Contact Us</a></li>
             </ul>
          </div>
@@ -144,7 +152,7 @@
 </div>
 <!-- .site-header-main -->
 
-<script>
+<!-- <script>
    // Get the current page URL
    const currentURL = window.location.href;
    const classesToAdd = 'current-menu-item page_item page-item-6 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children';
@@ -161,4 +169,4 @@
          link.parentNode.className += ' ' + classesToAdd;
       }
    }
-</script>
+</script> -->
